@@ -1,1 +1,3 @@
-console.log("Hello 222");
+    setInterval(() => {
+        console.log("testing");
+    }, 1000);
